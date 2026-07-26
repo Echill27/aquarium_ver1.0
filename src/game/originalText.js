@@ -1,4 +1,4 @@
-import rawDocument from "../../docs/미개장수족관_설계문서_v2.txt?raw";
+import rawDocument from "../../docs/scenario-v2.txt?raw";
 
 function slice(start, end) {
   const aliases = {
